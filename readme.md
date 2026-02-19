@@ -34,21 +34,21 @@ Diferente de um site institucional completo, esta LP foi projetada como uma ferr
 
 ### 🖥️ Interface de Conversão (Hero Section)
 <div align="center">
-  <img src="assets/lp-cotas/1.png" width="90%" alt="Landing Page Cotas Raciais Hero">
+  <img src="assets/cotas/1.png" width="90%" alt="Landing Page Cotas Raciais Hero">
 </div>
 
 ### 📖 Conteúdo e Esclarecimentos
 <div align="center">
-  <img src="assets/lp-cotas/2.png" width="45%" alt="Defenda Seus Direitos">
-  <img src="assets/lp-cotas/3.png" width="45%" alt="Detalhes Direito">
+  <img src="assets/cotas/2.png" width="45%" alt="Defenda Seus Direitos">
+  <img src="assets/cotas/3.png" width="45%" alt="Detalhes Direito">
 </div>
 
 ### 📩 Fluxo de Captação
 <div align="center">
-  <img src="assets/lp-cotas/4.png" width="90%" alt="Faq">
+  <img src="assets/cotas/4.png" width="90%" alt="Faq">
 </div>
 <div align="center">
-  <img src="assets/lp-cotas/5.png" width="90%" alt="Visão Geral da Landing Page">
+  <img src="assets/cotas/5.png" width="90%" alt="Visão Geral da Landing Page">
 </div>
 
 ---
