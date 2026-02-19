@@ -60,7 +60,7 @@ Diferente de um site institucional completo, esta LP foi projetada como uma ferr
 | **Framework** | Next.js |
 | **Estilização** | Tailwind CSS |
 | **Linguagem** | TypeScript |
-| **Deploy** | Vercel |
+| **Deploy** | Hostinger VPS |
 
 ---
 
