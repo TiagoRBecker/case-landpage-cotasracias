@@ -9,7 +9,7 @@
 ![Badge TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Badge Tailwind](https://img.shields.io/badge/TailwindCSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**[🔗 Acessar em Produção](#)**
+**[🔗 Acessar em Produção](`https://cotasraciais.guedesbampi.com.br/`)**
 <!-- Substitua o link acima pela URL de produção -->
 
 </div>
